@@ -31,7 +31,8 @@
             This will involve modifying the Tile class and event
             listeners in the driver.
 
-    Part 3:
+    Part 3: If the user puts the tile in the right color area,
+            increase the score and keep playing.
 
 */
 
